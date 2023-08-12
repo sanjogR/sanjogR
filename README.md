@@ -1,9 +1,10 @@
+
+
 <div id="header" align="center">
       <h1> Sanjog Rijal's Github Repository </h1>
       <div class="github-stats">
-            <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanjogR&show_icons=true&hide_border=true&theme=synthwave" />
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
+            <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true&theme=synthwave" />
+           
       </div>
       <div id="badges">
             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150" target="_blank">
@@ -189,5 +190,5 @@
       </div>
 </footer>
 </div>
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjogRijal&hide_progress=true)
 <!-- <div style = "visibility: hidden">Greek question mark;</div> -->
