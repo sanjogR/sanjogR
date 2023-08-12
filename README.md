@@ -1,7 +1,7 @@
 <div id="header" align="center">
       <h1> Sanjog Rijal's Github Repository </h1>
       <div class="github-stats">
-            <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanjogR&show_icons=true&hide_border=true&theme=synthwave" />
+            <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanjog@fusemachines.com&show_icons=true&hide_border=true&theme=synthwave" />
       </div>
       <div id="badges">
             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150" target="_blank">
